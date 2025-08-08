@@ -1,4 +1,4 @@
-# Vector Shift Interview Project
+# Visual Pipeline Editor
 
 A pipeline builder application with a modern React frontend and Python backend. This project allows users to create and visualize data processing pipelines using a drag-and-drop interface.
 
@@ -108,4 +108,4 @@ The frontend will be available at `http://localhost:3000`
 
 ## License
 
-This project is part of a technical interview for Vector Shift.
+Feel free to use this as you see fit
